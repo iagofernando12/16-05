@@ -1,0 +1,54 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Jockey+One&display=swap');
+.cabecalho{
+    background-color: #B31312;
+    display: flex;
+    justify-content: space-evenly;
+}
+.titulo{
+    font-family: "Jockey One", sans-serif;
+    font-weight: 400px;
+    font-style: normal;
+    color: #ffffff;
+    display: flex;
+    font-size: 96px;
+}
+
+.finalidade{
+    background-image: linear-gradient(#efbbbb,  #fdfdfd);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.imagem_finalidade_pinterest{
+    width: 340px;
+    height: 300px;
+}
+.informativo{
+  font-family: 300 px;
+  font-weight: 400 px;
+  font-size: 300 px;
+  font-style: normal;
+  text-align: justify;
+  color: #2B2A4C;
+  width: 70 px;
+}
+.inspiração-titulo{
+    font-family: ;
+    font-weight: ;
+    font-size: ;
+    font-style: normal;
+    color: ;
+    text-align: ;
+    margin-left: 140px;
+    margin-top: 40px;
+}
+.inspiraçães-imagem{
+    margin: 95px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-around;
+}
